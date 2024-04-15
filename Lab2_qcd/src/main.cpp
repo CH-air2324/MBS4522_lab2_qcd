@@ -18,7 +18,7 @@ const char* MQTT_username = "4522lab2";
 const char* MQTT_password = "12344321";
 
 // MQTT broker ip
-const char* mqtt_server = "broker.emqx.io";
+const char* mqtt_server = "10.107.244.160";
 
 // Initializes the espClient
 WiFiClient espClient;
